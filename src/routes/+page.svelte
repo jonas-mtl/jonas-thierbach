@@ -3,5 +3,5 @@
 </script>
 
 <main>
-    <h2>hei</h2>
+    <h2></h2>
 </main>
